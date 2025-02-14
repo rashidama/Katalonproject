@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox</name>
+   <tag></tag>
+   <elementGuidId>6b3978eb-33eb-421e-9255-857806f4d621</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@type=&quot;checkbox&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>2694e6ce-fcb5-4a4f-a779-d0698d55c1c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1739518074382</value>
+      <webElementGuid>dd0a66d0-bdbb-423d-8ead-9658c21a38de</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

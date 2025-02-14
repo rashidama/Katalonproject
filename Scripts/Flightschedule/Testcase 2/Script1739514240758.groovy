@@ -33,5 +33,11 @@ WebUI.click(findTestObject('Page_FlightAware - Flight Tracker  Flight Status/sea
 
 WebUI.verifyTextPresent('IGO6892 ', false)
 
+WebUI.click(findTestObject('Page_FlightAware - Flight Tracker  Flight Status/Page_6E6892 (IGO6892) IndiGO Flight Tracking and History 15-Feb-2025 (MAA  VOMM-BLR  VOBL) - FlightAware/span_Join FlightAware'))
+
+WebUI.click(findTestObject('Page_FlightAware - Flight Tracker  Flight Status/Page_1739518066075/checkbox'))
+
+WebUI.closeBrowser()
+
 WebUI.closeBrowser()
 
