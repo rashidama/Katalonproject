@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Search by Flight_flightSearchForm</name>
+   <tag></tag>
+   <elementGuidId>576aaa5a-c0ba-48f0-ba2d-dd5f06eab0d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='findAirlineMain']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#findAirlineMain > div.flightSearchForm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#findAirlineMain > .flightSearchForm</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>08b1cbc5-8840-4e38-822e-ecb0fc6b567f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flightSearchForm</value>
+      <webElementGuid>a2491cb2-574d-4bdf-89cc-d34343feaa5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;findAirlineMain&quot;)/div[@class=&quot;flightSearchForm&quot;]</value>
+      <webElementGuid>fee559d7-c774-4aad-92e3-9ff0f339996f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='findAirlineMain']/div[2]</value>
+      <webElementGuid>0c1decc6-88cd-4514-84be-afb589508068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search by Flight #:'])[1]/following::div[1]</value>
+      <webElementGuid>8401fd94-e787-4fcc-a237-49b5ea508ca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='®'])[1]/following::div[4]</value>
+      <webElementGuid>ac116108-6d1e-4bc1-99c9-e39268b8642f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='or'])[1]/preceding::div[6]</value>
+      <webElementGuid>ede753ce-447e-4bb9-8b3d-a5f3a6535bd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search by Route:'])[1]/preceding::div[7]</value>
+      <webElementGuid>76abf9f3-afdb-41d6-b990-c8dbbc331fee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div[2]</value>
+      <webElementGuid>1998617d-0cfc-447b-892e-93747848d005</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

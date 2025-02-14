@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>search all flight</name>
+   <tag></tag>
+   <elementGuidId>c1aba351-6cdd-45a3-9eb1-7b097a68d3c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='headerSearchForm']/div/div[5]/button/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Submit Search&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#headerSearchForm >> internal:role=button[name=&quot;Submit Search&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c2baec23-534a-4491-89e8-cd8aa64aa926</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://www.flightaware.com/images/icons/searchIcon-white.svg</value>
+      <webElementGuid>ba526253-2334-4b38-af3c-9904f811d297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Submit Search</value>
+      <webElementGuid>31e9c7fc-f114-4e12-a8dc-8b1e4f8ce906</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headerSearchForm&quot;)/div[@class=&quot;flightSearchForm&quot;]/div[@class=&quot;trackSubmit&quot;]/button[@class=&quot;blue_button&quot;]/img[1]</value>
+      <webElementGuid>941f231f-e8c9-4537-919c-39d3171bfc4c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headerSearchForm']/div/div[5]/button/img</value>
+      <webElementGuid>32c867aa-89c6-4d7b-be09-d04866033b76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Submit Search']</value>
+      <webElementGuid>a11b31c6-a1e8-4a4f-8cab-a5c216644d58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/img</value>
+      <webElementGuid>02ff79d4-b0a8-4cbe-8cd3-06f302f02ffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://www.flightaware.com/images/icons/searchIcon-white.svg' and @alt = 'Submit Search']</value>
+      <webElementGuid>40f8b17c-59bd-4d15-b8d1-2237eb7abcf1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
